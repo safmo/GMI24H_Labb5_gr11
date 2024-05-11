@@ -1,0 +1,14 @@
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\bin\Debug\net8.0\GMI24H_Labb5_gr11.exe
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\bin\Debug\net8.0\GMI24H_Labb5_gr11.deps.json
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\bin\Debug\net8.0\GMI24H_Labb5_gr11.runtimeconfig.json
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\bin\Debug\net8.0\GMI24H_Labb5_gr11.dll
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\bin\Debug\net8.0\GMI24H_Labb5_gr11.pdb
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\obj\Debug\net8.0\GMI24H_Labb5_gr11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\obj\Debug\net8.0\GMI24H_Labb5_gr11.AssemblyInfoInputs.cache
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\obj\Debug\net8.0\GMI24H_Labb5_gr11.AssemblyInfo.cs
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\obj\Debug\net8.0\GMI24H_Labb5_gr11.csproj.CoreCompileInputs.cache
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\obj\Debug\net8.0\GMI24H_Labb5_gr11.dll
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\obj\Debug\net8.0\refint\GMI24H_Labb5_gr11.dll
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\obj\Debug\net8.0\GMI24H_Labb5_gr11.pdb
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\obj\Debug\net8.0\GMI24H_Labb5_gr11.genruntimeconfig.cache
+C:\Users\safiy\source\repos\GMI24H_Labb5_gr11\obj\Debug\net8.0\ref\GMI24H_Labb5_gr11.dll
